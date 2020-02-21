@@ -1,2 +1,0 @@
-# afterwork
-Afterwork project
